@@ -22,4 +22,4 @@ This should be called after performing ExactDMD and is implemented first as, [ne
 
 ## Questions 
 
-If you have any questions, don't hesitate to email wredman@ucsb.edu. 
+If you have any questions regarding the codebase or the associated NeurIPS paper, don't hesitate to email wredman@ucsb.edu or adogra@nyu.edu 
